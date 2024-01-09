@@ -1,7 +1,7 @@
 # videoFusion
 Application de fusion de frames videos, pour la détection d'animaux volants
 
-Eng: Application merging video frames to detect the passage of flying animals
+Eng: Application merging video frames to detect flying animals
 
 Fichiers : 
 - Technique_VideoFusion.pdf : explications sur la technique
