@@ -7,3 +7,4 @@ Fichiers :
 - Technique_VideoFusion.pdf : explications sur la technique
 - videoFusion_v1p1_Installer_web.exe : installateur de l'application (compatible PC)
 - Manuel_Utilisation_VideoFusion_v1p1.pdf : manuel de l'application
+- gallery.pdf : exemple d'utilisations de l'application
